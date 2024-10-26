@@ -1,0 +1,5 @@
+# Não ignore este próprio arquivo .gitignore
+!.gitignore
+
+#dependencias
+/node_modules
